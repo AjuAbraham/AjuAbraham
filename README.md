@@ -1,12 +1,12 @@
 
 <h1 align="center">Hi 👋, I'm Aju Abraham</h1>
-<h3 align="center">A MERN Stack Developer</h3>
+<h3 align="center">A Full Stack Developer</h3>
 <img align="right" alt="code" width="500"  src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif"
 >
 
 - 🌱 I’m currently learning **TypeScript, Docker**
 
-- 👯 I’m looking to collaborate on **MERN projects**
+- 👯 I’m looking to collaborate on **projects**
 
 - 👨‍💻 All of my projects are available at [portfolio-nine-alpha-36.vercel.app](portfolio-nine-alpha-36.vercel.app)
 
